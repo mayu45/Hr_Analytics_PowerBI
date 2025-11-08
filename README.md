@@ -24,14 +24,22 @@ The dataset used in this project is a sample HR Analytics dataset containing emp
 •	Created new calculated columns (e.g., attrition rate, years at company groups) <br />
 •	Built DAX measures for KPIs such as Attrition Rate, Avg Age, Avg Salary, etc. <br />
 ## Dashboard Features
-•	Overall KPIs: Total Employees, Attrition Count, Attrition Rate, Average Age, Average Salary, Average Years at Company <br />
-•	Attrition by Education: Donut chart showing turnover across education levels <br />
-•	Attrition by Age: Bar chart showing highest attrition in the 26–35 age range <br />
-•	Attrition by Salary Slab: Comparison of attrition among different income groups <br />
-•	Attrition by Years at Company: Line chart showing trends based on tenure <br />
-•	Gender-wise Attrition: Side-by-side comparison of male vs female attrition <br />
-•	Attrition by Job Role: Bar chart highlighting roles with the highest turnover <br />
-•	Department Filter: Interactive slicers for department-wise analysis <br />
+### Overall KPIs:
+Total Employees, Attrition Count, Attrition Rate, Average Age, Average Salary, Average Years at Company <br />
+### Attrition by Education: 
+Donut chart showing turnover across education levels <br />
+### Attrition by Age: 
+Bar chart showing highest attrition in the 26–35 age range <br />
+### Attrition by Salary Slab: 
+Comparison of attrition among different income groups <br />
+### Attrition by Years at Company: 
+Line chart showing trends based on tenure <br />
+### Gender-wise Attrition: 
+Side-by-side comparison of male vs female attrition <br />
+### Attrition by Job Role: 
+Bar chart highlighting roles with the highest turnover <br />
+### Department Filter: 
+Interactive slicers for department-wise analysis <br />
      
 
 # Outcome
