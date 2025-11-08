@@ -47,7 +47,8 @@ The dataset used in this project is a sample HR Analytics dataset containing emp
 
 
 # Output Screenshot
-•	Image: <"C:\Users\MADHURI MAM\OneDrive\Desktop\hr\Snapshot.png"/>
+•	Image: <img width="1320" height="739" alt="Snapshot" src="https://github.com/user-attachments/assets/c4ba816d-5043-4730-aa7c-7897be35aa42" />
+
 
 
 
