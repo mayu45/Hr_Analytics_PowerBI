@@ -41,8 +41,12 @@ The dataset used in this project is a sample HR Analytics dataset containing emp
 •	Support for making strategic HR decisions <br />
 •	Visual breakdown of trends across demographics and roles <br />
 
+# Repository Structure (GitHub):
+•	Data: <a href "https://github.com/mayu45/Sales_Dashboard_PowerBI/blob/main/Norway_car_sales_by_make.csv"</a> <br />
+•	Dashboard: <a href "https://github.com/mayu45/Sales_Dashboard_PowerBI/blob/main/Sales_Dashboard_PowerBI.pbix"> <br />
+
 # Output Screenshot
-(Add your dashboard screenshot here.)
+•	Image: <img width="1164" height="654" alt="Snapshot" src="https://github.com/user-attachments/assets/086f8c78-5589-45bd-816a-63ea61e22213" />
 
 
 
