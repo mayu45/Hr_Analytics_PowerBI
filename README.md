@@ -47,7 +47,7 @@ The dataset used in this project is a sample HR Analytics dataset containing emp
 
 
 # Output Screenshot
-•	Image: < />
+•	Image: < https://github.com/mayu45/Hr_Analytics_PowerBI/blob/main/Snapshot.png/>
 
 
 
