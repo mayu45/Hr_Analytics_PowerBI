@@ -32,7 +32,7 @@ The dataset used in this project is a sample HR Analytics dataset containing emp
 •	Gender-wise Attrition: Side-by-side comparison of male vs female attrition <br />
 •	Attrition by Job Role: Bar chart highlighting roles with the highest turnover <br />
 •	Department Filter: Interactive slicers for department-wise analysis <br />
-
+     
 
 # Outcome
 ## The dashboard provides HR teams with:
